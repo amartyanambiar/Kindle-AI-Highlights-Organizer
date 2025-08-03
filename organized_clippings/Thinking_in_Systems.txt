@@ -1,0 +1,432 @@
+Location: 337-338
+A system is more than the sum of its parts. It may exhibit adaptive, dynamic, goal-seeking, self-preserving, and sometimes evolutionary behavior.
+
+==========
+
+Location: 344-345
+You think that because you understand “one” that you must therefore understand “two” because one and one make two. But you forget that you must also understand “and.”
+
+==========
+
+Location: 402-403
+Systems can be nested within systems. Therefore, there can be purposes within purposes.
+
+==========
+
+Location: 414-415
+A system generally goes on being itself, changing only slowly if at all, even with complete substitutions of its elements—as long as its interconnections and purposes remain intact.
+
+==========
+
+Location: 446-446
+A stock is the memory of the history of changing flows within the system.
+
+==========
+
+Location: 457-457
+
+==========
+
+Location: 457
+Note: 
+Stock flow
+
+==========
+
+Location: 461-461
+
+==========
+
+Location: 461
+Note: 
+Dam eg. of stock, flow,
+
+==========
+
+Location: 528-529
+The time lags that come from slowly changing stocks can cause problems in systems, but they also can be sources of stability.
+
+==========
+
+Location: 529
+Note: 
+Fossil fuels take time to replenish. (delay)
+Soil has been accumulating for ages, wont disappear suddenly (stability)
+
+==========
+
+Location: 634-635
+Balancing feedback loops are equilibrating or goal-seeking structures in systems and are both sources of stability and sources of resistance to change.
+
+==========
+
+Location: 672-673
+Reinforcing feedback loops are self-enhancing, leading to exponential growth or to runaway collapses over time.
+
+==========
+
+Location: 697-697
+If A causes B, is it possible that B also causes A?
+
+==========
+
+Location: 1076-1077
+we look for the reinforcing loops that are driving it and for the balancing loops that ultimately will constrain it.
+
+==========
+
+Location: 1130-1130
+A quantity growing exponentially toward a constraint or limit reaches that limit in a surprisingly short time.
+
+==========
+
+Location: 1207-1207
+
+==========
+
+Location: 1207
+Note: 
+Resource stock, Capital stock and A rate of Extraction of resource.
+Oscillations r seen when a sudden change is brought into the rate of extraction. 
+takes time to reach equilibrium again
+
+==========
+
+Location: 1229-1231
+Renewable resources are flow-limited. They can support extraction or harvest indefinitely, but only at a finite flow rate equal to their regeneration rate.
+
+==========
+
+Location: 1275-1275
+three characteristics: resilience, self-organization, or hierarchy.
+
+==========
+
+Location: 1350-1351
+Self-organization produces heterogeneity and unpredictability.
+
+==========
+
+Location: 1353-1355
+education systems may restrict the creative powers of children instead of stimulating those powers. Economic policies may lean toward supporting established, powerful enterprises rather than upstart, new ones. And many governments prefer their people not to be too self-organizing.
+
+==========
+
+Location: 1370-1371
+(It is because of fractal geometry that the average human lung has enough surface area to cover a tennis court.)
+
+==========
+
+Location: 1371-1372
+simple organizing rules that have led to self-organizing
+
+==========
+
+Location: 1390-1391
+self-organizing system often generates is hierarchy.
+
+==========
+
+Location: 1415-1416
+In hierarchical systems relationships within each subsystem are denser and stronger than relationships between subsystems.
+
+==========
+
+Location: 1420-1421
+Hierarchical systems are partially decomposable. They can be taken apart and the subsystems with their especially dense information links can function, at least partially, as systems in their own right.
+
+==========
+
+Location: 1444-1446
+When a subsystem’s goals dominate at the expense of the total system’s goals, the resulting behavior is called suboptimization.
+
+==========
+
+Location: 1514-1517
+When a systems thinker encounters a problem, the first thing he or she does is look for data, time graphs, the history of the system. That’s because long-term behavior provides clues to the underlying system structure. And structure is the key to understanding not just what is happening, but why.
+
+==========
+
+Location: 1519-1521
+A goal-seeking balancing feedback loop approaches or holds a dynamic equilibrium. A reinforcing feedback loop generates exponential growth. The two of them linked together are capable of growth, decay, or equilibrium. If they also contain delays, they may produce oscillations. If they work in periodic, rapid bursts, they may produce even more surprising behaviors.
+
+==========
+
+Location: 1566-1567
+world often surprises our linear-thinking minds. If we’ve learned that a small push produces a small response, we think that twice as big a push will produce twice as big a response.
+
+==========
+
+Location: 1607-1607
+nonlinearly.
+
+==========
+
+Location: 1607
+Note: 
+Nature's Ecosystem is a an example!
+
+==========
+
+Location: 1614-1614
+ecologically stable is economically unstable.
+
+==========
+
+Location: 1678-1679
+There are no separate systems. The world is a continuum. Where to draw a boundary around a system depends on the purpose of the discussion—the
+
+==========
+
+Location: 1725-1727
+“law of the minimum.” It doesn’t matter how much nitrogen is available to the grain, he said, if what’s short is phosphorus. It does no good to pour on more phosphorus, if the problem is low potassium. Bread will not rise without yeast, no matter how much flour it has.
+
+==========
+
+Location: 1726-1727
+Bread will not rise without yeast, no matter how much flour it has. Children
+
+==========
+
+Location: 1733-1733
+At any given time, the input that is most important to a system is the one that is most limiting.
+
+==========
+
+Location: 1756-1759
+If a company produces a perfect product or service at an affordable price, it will be swamped with orders until it grows to the point at which some limit decreases the perfection of the product or raises its price. If a city meets the needs of all its inhabitants better than any other city, people will flock there until some limit brings down the city’s ability to satisfy peoples’ needs.
+
+==========
+
+Location: 1761-1762
+There always will be limits to growth. They can be self-imposed. If they aren’t, they will be system-imposed. No physical entity can grow forever
+
+==========
+
+Location: 1800-1801
+Understanding delays helps one understand why Mikhail Gorbachev could transform the information system of the Soviet Union virtually overnight, but not the physical economy. (That takes decades.)
+
+==========
+
+Location: 1817-1821
+Tourists flock to places like Waikiki or Zermatt and then complain that those places have been ruined by all the tourists. Farmers produce surpluses of wheat, butter, or cheese, and prices plummet. Fishermen overfish and destroy their own livelihood. Corporations collectively make investment decisions that cause business-cycle downturns. Poor people have more babies than they can support. Why? Because of what World Bank economist Herman Daly calls the “invisible foot” or what Nobel Prize–winning economist Herbert Simon calls bounded rationality.
+
+==========
+
+Location: 1822-1823
+Bounded rationality means that people make quite reasonable decisions based on the information they have. But they don’t have perfect information, especially about more distant parts of the system.
+
+==========
+
+Location: 1852-1854
+It’s possible that you could retain your memory of how things look from another angle, and that you burst forth with innovations that transform the system, but it’s distinctly unlikely.
+
+==========
+
+Location: 1917-1918
+common patterns of problematic behavior archetypes.
+
+==========
+
+Location: 1922-1924
+The destruction they cause is often blamed on particular actors or events, although it is actually a consequence of system structure. Blaming, disciplining, firing, twisting policy levers harder, hoping for a more favorable sequence of driving events, tinkering at the margins—these standard responses will not fix structural problems. That is why I call these archetypes “traps.”
+
+==========
+
+Location: 1925-1926
+by altering the structure—by reformulating goals, by weakening, strengthening, or altering feedback loops, by adding new feedback loops.
+
+==========
+
+Location: 1937-1937
+systemic trap of “fixes that fail” or “policy resistance.”
+
+==========
+
+Location: 1947-1950
+single-system stock—drug supply on the city streets, for example—with various actors trying to pull that stock in different directions. Addicts want to keep it high, enforcement agencies want to keep it low, pushers want to keep it right in the middle so prices don’t get either too high or too low. The average citizen really just wants to be safe from robberies by addicts trying to get money to buy drugs. All the actors work hard to achieve their different goals.
+
+==========
+
+Location: 1950-1953
+If any one actor gains an advantage and moves the system stock (drug supply) in one direction (enforcement agencies manage to cut drug imports at the border), the others double their efforts to pull it back (street prices go up, addicts have to commit more crimes to buy their daily fixes, higher prices bring more profits, suppliers use the profits to buy planes and boats to evade the border patrols). Together, the countermoves produce a standoff, the stock is not much different from before, and that is not what anybody wants.
+
+==========
+
+Location: 1956-1957
+Intensification of anyone’s effort leads to intensification of everyone else’s.
+
+==========
+
+Location: 1978-1982
+Hungary, at the same time Romania was banning abortions, also was worried about its low birth rate—fearing an economic downturn could result from fewer people in the workforce. The Hungarian government discovered that cramped housing was one reason for small family size. The government devised a policy that rewarded larger families with more living space. This policy was only partially successful, because housing was not the only problem. But it was far more successful than Romania’s policy and it avoided Romania’s disastrous results.
+
+==========
+
+Location: 1983-1984
+dealing with policy resistance is to find a way of aligning the various goals of the subsystems, usually by providing an overarching goal that allows all actors to break out of their bounded rationality.
+
+==========
+
+Location: 1998-2004
+THE TRAP: POLICY RESISTANCE When various actors try to pull a system stock toward various goals, the result can be policy resistance. Any new policy, especially if it’s effective, just pulls the stock farther from the goals of other actors and produces additional resistance, with a result that no one likes, but that everyone expends considerable effort in maintaining. THE WAY OUT Let go. Bring in all the actors and use the energy formerly expended on resistance to seek out mutually satisfactory ways for all goals to be realized—or redefinitions of larger and more important goals
+
+==========
+
+Location: 1998-2005
+THE TRAP: POLICY RESISTANCE When various actors try to pull a system stock toward various goals, the result can be policy resistance. Any new policy, especially if it’s effective, just pulls the stock farther from the goals of other actors and produces additional resistance, with a result that no one likes, but that everyone expends considerable effort in maintaining. THE WAY OUT Let go. Bring in all the actors and use the energy formerly expended on resistance to seek out mutually satisfactory ways for all goals to be realized—or redefinitions of larger and more important goals that everyone can pull toward together.
+
+==========
+
+Location: 2033-2036
+The more users there are, the more resource is used. The more resource is used, the less there is per user. If the users follow the bounded rationality of the commons (“There’s no reason for me to be the one to limit my cows!”), there is no reason for any of them to decrease their use. Eventually, then, the harvest rate will exceed the capacity of the resource to bear the harvest.
+
+==========
+
+Location: 2069-2070
+Privatization works more reliably than exhortation, if society is willing to let some individuals learn the hard way. But many resources, such as the atmosphere and the fish of the sea, simply cannot be privatized.
+
+==========
+
+Location: 2071-2071
+mutual-coercion arrangements,
+
+==========
+
+Location: 2089-2096
+THE TRAP: TRAGEDY OF THE COMMONS When there is a commonly shared resource, every user benefits directly from its use, but shares the costs of its abuse with everyone else. Therefore, there is very weak feedback from the condition of the resource to the decisions of the resource users. The consequence is overuse of the resource, eroding it until it becomes unavailable to anyone. THE WAY OUT Educate and exhort the users, so they understand the consequences of abusing the resource. And also restore or strengthen the missing feedback link, either by privatizing the resource so each user feels the direct consequences of its abuse or (since many resources cannot be privatized) by regulating the access of all users to the resource.
+
+==========
+
+Location: 2114-2117
+the desired state of the system is influenced by the perceived state. Standards aren’t absolute. When perceived performance slips, the goal is allowed to slip. “Well, that’s about all you can expect.” “Well, we’re not doing much worse than we were last year.” “Well, look around, everybody else is having trouble too.”
+
+==========
+
+Location: 2120-2121
+“eroding goals.” It is also called the “boiled frog syndrome,”
+
+==========
+
+Location: 2121-2123
+frog put suddenly in hot water will jump right out, but if it is put into cold water that is gradually heated up, the frog will stay there happily until it boils.
+
+==========
+
+Location: 2132-2138
+THE TRAP: DRIFT TO LOW PERFORMANCE Allowing performance standards to be influenced by past performance, especially if there is a negative bias in perceiving past performance, sets up a reinforcing feedback loop of eroding goals that sets a system drifting toward low performance. THE WAY OUT Keep performance standards absolute. Even better, let standards be enhanced by the best actual performances instead of being discouraged by the worst. Use the same structure to set up a drift toward high performance!
+
+==========
+
+Location: 2182-2188
+THE TRAP: ESCALATION When the state of one stock is determined by trying to surpass the state of another stock—and vice versa—then there is a reinforcing feedback loop carrying the system into an arms race, a wealth race, a smear campaign, escalating loudness, escalating violence. The escalation is exponential and can lead to extremes surprisingly quickly. If nothing is done, the spiral will be stopped by someone’s collapse—because exponential growth cannot go on forever. THE WAY OUT The best way out of this trap is to avoid getting in it. If caught in an escalating system, one can refuse to compete (unilaterally disarm), thereby interrupting the reinforcing loop. Or one can negotiate a new system
+
+==========
+
+Location: 2204-2206
+If the winning takes place in a limited environment, such that everything the winner wins is extracted from the losers, the losers are gradually bankrupted, or forced out, or starved.
+
+==========
+
+Location: 2207-2207
+competitive exclusion principle.”
+
+==========
+
+Location: 2236-2237
+Species and companies sometimes escape competitive exclusion by diversifying.
+
+==========
+
+Location: 2253-2253
+potlatches
+
+==========
+
+Location: 2256-2260
+THE TRAP: SUCCESS TO THE SUCCESSFUL If the winners of a competition are systematically rewarded with the means to win again, a reinforcing feedback loop is created by which, if it is allowed to proceed uninhibited, the winners eventually take all, while the losers are eliminated. THE WAY OUT Diversification,
+
+==========
+
+Location: 2351-2352
+Beware of symptom-relieving or signal-denying policies or practices that don’t really address the problem. Take the focus off short-term relief and put it on long-term restructuring.
+
+==========
+
+Location: 2363-2365
+rule beating: Departments of governments, universities, and corporations often engage in pointless spending at the end of the fiscal year just to get rid of money—because if they don’t spend their budget this year, they will be allocated less next year.
+
+==========
+
+Location: 2374-2374
+rule beating produces the appearance of rules being followed
+
+==========
+
+Location: 2377-2378
+Rule beating is usually a response of the lower levels in a hierarchy to overrigid, deleterious, unworkable, or ill-defined rules from above.
+
+==========
+
+Location: 2407-2408
+early days of family planning in India, program goals were defined in terms of the number of IUDs implanted. So doctors, in their eagerness to meet their targets, put loops into women without patient approval.
+
+==========
+
+Location: 2432-2434
+world would be a different place if instead of competing to have the highest per capita GNP, nations competed to have the highest per capita stocks of wealth with the lowest throughput, or the lowest infant mortality, or the greatest political freedom, or the cleanest environment, or the smallest gap between the rich and the poor.
+
+==========
+
+Location: 2481-2482
+leverage points is not unique to systems analysis—it’s embedded in legend:
+
+==========
+
+Location: 2484-2484
+Leverage points are points of power.
+
+==========
+
+Location: 2491-2492
+Growth has costs as well as benefits, and we typically don’t count the costs—among which are poverty and hunger, environmental destruction,
+
+==========
+
+Location: 2692-2692
+price of fish doesn’t provide that feedback.
+
+==========
+
+Location: 2776-2780
+John Kenneth Galbraith recognized that corporate goal—to engulf everything—long ago.6 It’s the goal of a cancer too. Actually it’s the goal of every living population—and only a bad one when it isn’t balanced by higher-level balancing feedback loops that never let an upstart power-loop-driven entity control the world.
+
+==========
+
+Location: 2821-2822
+Systems modelers say that we change paradigms by building a model of the system, which takes us outside the system and forces us to see it whole.
+
+==========
+
+Location: 2828-2828
+It is to let go into not-knowing, into what the Buddhists call enlightenment.
+
+==========
+
+Location: 2921-2923
+Living successfully in a world of systems requires more of us than our ability to calculate. It requires our full humanity—our rationality, our ability to sort out truth from falsehood, our intuition, our compassion, our vision, and our morality.
+
+==========
+
+Location: 2931-2932
+Get the Beat of the System
+
+==========
+
+Location: 2936-2937
+Starting with the behavior of the system forces you to focus on facts, not theories.
+
+==========
+
+Location: 2946-2948
+“What’s wrong?” but also to “How did we get there?” “What other behavior modes are possible?” “If we don’t change direction, where are we going to end up?” And looking to the strengths of the system, one can ask “What’s working well here?”
