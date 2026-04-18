@@ -1,5 +1,8 @@
 import os
-import requests
+try:
+    import requests
+except Exception:
+    requests = None
 
 OLLAMA_URL = 'http://localhost:11434/api/generate'
 MODEL = 'mistral:7b'
