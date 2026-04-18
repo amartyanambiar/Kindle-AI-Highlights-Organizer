@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Kindle Highlights Organizer</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <style>
+    body{font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial;margin:20px}
+    .btn{padding:6px 10px;margin:4px}
+    #files button{display:block;margin:6px 0}
+    pre{white-space:pre-wrap;background:#f6f6f6;padding:10px;border-radius:6px}
+  </style>
+</head>
+<body>
+  <h1>Kindle Highlights Organizer</h1>
+  <section>
+    <h2>Upload</h2>
+    <input type="file" id="fileInput" accept="text/plain" />
+    <button id="uploadBtn" class="btn">Upload</button>
+    <div id="uploadStatus"></div>
+  </section>
+
+  <section>
+    <h2>Organized Files</h2>
+    <div id="files">No files yet.</div>
+  </section>
+
+  <section>
+    <h2>Summary</h2>
+    <div id="summary">No summary yet.</div>
+  </section>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
