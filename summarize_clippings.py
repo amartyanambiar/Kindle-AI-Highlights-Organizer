@@ -6,9 +6,6 @@ MODEL = 'mistral:7b'
 INPUT_DIR = 'organized_clippings'
 OUTPUT_DIR = 'summaries'
 
-if not os.path.exists(OUTPUT_DIR):
-    os.makedirs(OUTPUT_DIR)
-
 
 def summarize_text(text, temperature=0.5):
     prompt = (
@@ -36,24 +33,27 @@ def summarize_text(text, temperature=0.5):
     resp = requests.post(OLLAMA_URL, json=data)
     resp.raise_for_status()
     return resp.json()['response'].strip()
-    return resp.json()['response'].strip()
 
 
-for fname in os.listdir(INPUT_DIR):
-    print(f"Processing {fname}...")
-    if not fname.endswith('.txt'):
-        continue
-    with open(os.path.join(INPUT_DIR, fname), 'r', encoding='utf-8') as f:
-        content = f.read()
+if __name__ == '__main__':
+    if not os.path.exists(OUTPUT_DIR):
+        os.makedirs(OUTPUT_DIR)
 
-    # Chunk the file into groups of 3 highlights (split by '==========')
-    blocks = [b.strip() for b in content.split('==========') if b.strip()]
-    grouped = ['\n==========\n'.join(blocks[i:i+3]) for i in range(0, len(blocks), 3)]
-    summary = ''
-    for group in grouped:
-        if group.strip():
-            summary += summarize_text(group, temperature=0.5) + '\n\n'
-    out_path = os.path.join(OUTPUT_DIR, fname.replace('.txt', '_summary.txt'))
-    with open(out_path, 'w', encoding='utf-8') as out:
-        out.write(summary.strip())
-    print(f"Summary for {fname} saved to {out_path}")
+    for fname in os.listdir(INPUT_DIR):
+        print(f"Processing {fname}...")
+        if not fname.endswith('.txt'):
+            continue
+        with open(os.path.join(INPUT_DIR, fname), 'r', encoding='utf-8') as f:
+            content = f.read()
+
+        # Chunk the file into groups of 3 highlights (split by '==========')
+        blocks = [b.strip() for b in content.split('==========') if b.strip()]
+        grouped = ['\n==========\n'.join(blocks[i:i+3]) for i in range(0, len(blocks), 3)]
+        summary = ''
+        for group in grouped:
+            if group.strip():
+                summary += summarize_text(group, temperature=0.5) + '\n\n'
+        out_path = os.path.join(OUTPUT_DIR, fname.replace('.txt', '_summary.txt'))
+        with open(out_path, 'w', encoding='utf-8') as out:
+            out.write(summary.strip())
+        print(f"Summary for {fname} saved to {out_path}")
